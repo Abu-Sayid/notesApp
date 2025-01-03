@@ -17,4 +17,4 @@ To launch your react project in your browser,
 
     npm run dev
 
-// to launch your react project in your browser
+// to launch the react project in your browser
